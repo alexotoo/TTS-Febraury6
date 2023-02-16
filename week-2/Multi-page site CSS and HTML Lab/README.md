@@ -1,5 +1,7 @@
 # Multi-page site CSS and HTML Lab
 
+![Finished page image](/images/Screenshot%202023-02-16%20at%206.10.08%20pm.png)
+
 ### Instructions
 
 1. Create a new website. Your site can be on any topic you like or can be the same first site you built in the html lab.
