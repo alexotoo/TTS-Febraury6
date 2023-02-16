@@ -5,7 +5,7 @@
 1. Create a new website. Your site can be on any topic you like or can be the same first site you built in the html lab.
 2. Create at least 2 more HTML pages for your website
 
-### Masthead
+### Masthead
 
 1. Build out the masthead seen in the image below
 2. Use the 'cart-icon.png' and 'search-icon.png' images; everything else should just be HTML and CSS
