@@ -1,6 +1,6 @@
 # Multi-page site CSS and HTML Lab
 
-![Finished page image](/images/Screenshot%202023-02-16%20at%206.10.08%20pm.png)
+![Finished page image](https://github.com/alexotoo/TTS-Febraury6/blob/main/week-2/Multi-page%20site%20CSS%20and%20HTML%20Lab/images/Screenshot%202023-02-16%20at%206.10.08%20pm.png)
 
 ### Instructions
 
