@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Righteous&family=Roboto:wght@100;400;900&display=swap");
+/* font-family: 'Righteous', cursive;
+font-family: 'Roboto', sans-serif; */
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+.header {
+  background-color: #eaeaea;
+  margin-bottom: 0;
+}
+.header.header__title {
+  font-family: "Righteous", cursive;
+  font-size: 3rem;
+  padding-left: 1rem;
+}
+.header.header__title span,
+.masthead h1 span {
+  color: red;
+}
+.active {
+  color: red !important;
+}
+.masthead {
+  min-height: 75vh;
+  color: #ffffff;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./assets/images/toa-heftiba-C9WnRj-CZEk-unsplash.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+.masthead h1 {
+  font-weight: 900;
+  font-size: 4rem;
+  text-align: center;
+}
+
+.masthead .subheading {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
+.post-preview > a {
+  color: #212529;
+}
+.post-preview > a:hover {
+  color: #d70311;
+}
+.posts {
+  padding-top: 4rem;
+}
+a {
+  text-decoration: none;
+}
+
+.fa-brands {
+  padding-top: 2rem;
+  font-size: 3rem;
+  padding-right: 2rem;
+  color: #d70311;
+}
+footer {
+  border-top: 2px #d70311 solid;
+  padding-bottom: 2rem;
+}
