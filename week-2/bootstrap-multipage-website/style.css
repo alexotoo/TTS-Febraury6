@@ -24,8 +24,32 @@ body {
 .masthead {
   min-height: 75vh;
   color: #ffffff;
+}
+
+.masthead__home {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("./assets/images/toa-heftiba-C9WnRj-CZEk-unsplash.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+.masthead__about {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./assets/images/about.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+.masthead__blog {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./assets/images/blog.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+.masthead__contact {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./assets/images/contact.jpg");
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
@@ -63,5 +87,6 @@ a {
 }
 footer {
   border-top: 2px #d70311 solid;
-  padding-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  margin-top: 1.5rem;
 }
